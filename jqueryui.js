@@ -7,7 +7,7 @@ steal(
 	'./dialog/dialog.js',
 	'./draggable/draggable.js',
 	'./droppable/droppable.js',
-	'./effects/effects.js',
+	'./effect/effect.js',
 	'./mouse/mouse.js',
 	'./position/position.js',
 	'./progressbar/progressbar.js',
